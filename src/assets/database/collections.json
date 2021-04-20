@@ -1,0 +1,254 @@
+[
+  {
+    "collectionID": 1,
+    "questions": [
+      {
+        "id": 1,
+        "text": "Have you ever visited Dubai?",
+        "options": [
+          {
+            "id": 1,
+            "text": "No",
+            "icon": "no.png"
+          },
+          {
+            "id": 2,
+            "text": "Yes",
+            "icon": "yes.png"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "text": " Do you have any friends or family in Dubai?",
+        "options": [
+          {
+            "id": 3,
+            "text": "No",
+            "icon": "no.png"
+          },
+          {
+            "id": 4,
+            "text": "Yes",
+            "icon": "yes.png"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "text": " How long do you want to stay in stay in Dubai?",
+        "options": [
+          {
+            "id": 5,
+            "text": "Upto 3 months",
+            "icon": "Calendar.png"
+          },
+          {
+            "id": 6,
+            "text": "3 to 6 months",
+            "icon": "Calendar.png"
+          },
+          {
+            "id": 7,
+            "text": "6 to 12 months",
+            "icon": "Calendar.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "collectionID": 3,
+    "questions": [
+      {
+        "id": 100,
+        "text": "Why do you want to come to Dubai?",
+        "options": [
+          {
+            "id": 10,
+            "text": "Lifestyle",
+            "icon": "Lifestyle.png"
+          },
+          {
+            "id": 11,
+            "text": "Work opportunities",
+            "icon": "Work opportunities.png"
+          },
+          {
+            "id": 12,
+            "text": "Education",
+            "icon": "Education.png"
+          },
+          {
+            "id": 13,
+            "text": "Finance",
+            "icon": "Finance.png"
+          },
+          {
+            "id": 14,
+            "text": "Tourism",
+            "icon": "Tourism.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "collectionID": 4,
+    "questions": [
+      {
+        "id": 101,
+        "text": "What industries would you prefer to work in?",
+        "options": [
+          {
+            "id": 21,
+            "text": "Construction",
+            "icon": "Construction.png"
+          },{
+            "id": 22,
+            "text": "Hospitality",
+            "icon": "Hospitality.png"
+          },{
+            "id": 23,
+            "text": "Real estate",
+            "icon": "Real estate.png"
+          },{
+            "id": 24,
+            "text": "Tourism",
+            "icon": "Tourism.png"
+          },{
+            "id": 25,
+            "text": "Manufacturing",
+            "icon": "Manufacturing.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "collectionID": 5,
+    "questions": [
+      {
+        "id": 102,
+        "text": "What are your interests?",
+        "options": [
+          {
+            "id": 26,
+            "text": "Outdoors",
+            "icon": "Outdoors.png"
+          },{
+            "id": 27,
+            "text": "Fitness",
+            "icon": "Fitness.png"
+          },{
+            "id": 28,
+            "text": "Health",
+            "icon": "Health.png"
+          },{
+            "id": 29,
+            "text": "Travel",
+            "icon": "Travel.png"
+          },{
+            "id": 30,
+            "text": "Cooking",
+            "icon": "Cooking.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "collectionID": 6,
+    "questions": [
+      {
+        "id": 103,
+        "text": "Do you have any financial savings?",
+        "options": [
+          {
+            "id": 31,
+            "text": "No savings",
+            "icon": "No savings.png"
+          },{
+            "id": 32,
+            "text": "0 to 1000 aed",
+            "icon": "0 to 1000 aed.png"
+          },{
+            "id": 33,
+            "text": "1000 to 5000 aed",
+            "icon": "1000 to 5000 aed.png"
+          },{
+            "id": 34,
+            "text": "5000 to 10,000 aed",
+            "icon": "5000 to 10,000 aed.png"
+          },{
+            "id": 35,
+            "text": "10,000 to 20,000 aed",
+            "icon": "10,000 to 20,000 aed.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "collectionID": 7,
+    "questions": [
+      {
+        "id": 104,
+        "text": "What is your level of education?",
+        "options": [
+          {
+            "id": 36,
+            "text": "High school or less",
+            "icon": "High school or less.png"
+          },{
+            "id": 37,
+            "text": "Collage",
+            "icon": "Collage.png"
+          },{
+            "id": 38,
+            "text": "Diploma",
+            "icon": "Diploma.png"
+          },{
+            "id": 39,
+            "text": "Batchelors",
+            "icon": "Batchelors.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "collectionID": 8,
+    "questions": [
+      {
+        "id": 105,
+        "text": "How soon do you want to come to Dubai?",
+        "options": [
+          {
+            "id": 40,
+            "text": "Right now",
+            "icon": "Calendar.png"
+          },{
+            "id": 41,
+            "text": "0 to 3 months",
+            "icon": "Calendar.png"
+          },{
+            "id": 42,
+            "text": "3 to 6 months",
+            "icon": "Calendar.png"
+          },{
+            "id": 43,
+            "text": "6 to 12 months",
+            "icon": "Calendar.png"
+          },{
+            "id": 44,
+            "text": "After 1 year",
+            "icon": "Calendar.png"
+          }
+        ]
+      }
+    ]
+  }
+]
+
+

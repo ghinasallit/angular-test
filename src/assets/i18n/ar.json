@@ -1,0 +1,33 @@
+{
+  "_EnterPinCode": "الرجاء ادخال رمز التحقق",
+  "_Cancel": "تراجع",
+  "_Clear": "مسح",
+  "_Requests": "الطلبات",
+  "_Withdrawal": "السحب النقدي",
+  "_Payments": "الدفعات",
+  "_Portfolio": "المحفظة",
+  "_Transfers": "النقل",
+  "_SelectAccount": "الرجاء اختيار الحساب",
+  "_Saving": "توفير",
+  "_Current": "جاري",
+  "_MainMenu": "القائمة الرئيسية",
+  "_OtherAccount": "مبالغ أخرى",
+  "_SelectAmount": "الرجاء اختيار المبلغ بالدرهم",
+  "_Loading": "...جاري التحميل",
+  "_ConfirmDetails": "الرجاء تأكيد تفاصيل السحب",
+  "_Confirm": "تأكيد",
+  "_AccountType": "نوع الحساب",
+  "_AmountRequested": "المبلغ المطلوب",
+  "_AED": "درهم",
+  "_Back": "عودة",
+  "_WouldPrintReceipt": "هل تود طباعة ايصال؟",
+  "_PrintReceipt": "اطبع الايصال",
+  "_DontPrint": "لا تطبع الايصال",
+  "_SelectAnotherAmount": "اختر مبلغ آخر",
+  "_YouDontHaveEnoughBalance": "ليس لديك رصيد كافي, حاول مرة أخرى.",
+  "_YouDebitCartIsExpired": "بطاقتك البنكية منتهية الصلاحية",
+  "_Ok": "تم",
+  "_SessionTimeOut": "تم انهاء الجلسة"
+
+
+}

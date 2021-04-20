@@ -1,0 +1,14 @@
+<div class=" p-5 lang bg-nbd">
+  <div class="container">
+    <div class="row p-6">
+      <div class="col-md-8 m-auto" data-aos="zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600">
+        <h1 class="text-white text-center mb-5"  >Please Choose language</h1>
+        <h1 class="text-white text-center mb-5" >الرجاء اختيار اللغة</h1>
+        <div class="d-flex justify-content-center flex-wrap">
+          <div><button class="btn btn-primary m-2" (click)="appService.switchLanguage('en')" routerLink="/pin-code"> English</button></div>
+          <div><button class="btn btn-primary m-2" (click)="appService.switchLanguage('ar')" routerLink="/pin-code"> العربية</button></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

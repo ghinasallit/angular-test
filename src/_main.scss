@@ -1,0 +1,16 @@
+body {
+  font-family: 'Sora Regular', sans-serif;
+}
+
+.bg-nbd {
+  background-image: url("assets/images/home/blue-bg-bank.jpg");
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  top: 0;
+}

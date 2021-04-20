@@ -1,0 +1,44 @@
+//    >> breakpoint-next(sm, (xs: 0, sm: 576px, md: 768px, lg: 992px, xl: 1200px))
+@include media-breakpoint-between(sm, md) {
+
+  .amounts .amount h3 {
+    font-size: 25px !important;
+  }
+}
+
+
+@include media-breakpoint-between(xs, sm) {
+  .pin {
+    input {
+      font-size: 2rem;
+      width: 3rem !important;
+    }
+
+    .number-button {
+      button {
+        width: 5rem !important;
+        font-size: 15px !important;
+      }
+    }
+  }
+
+
+  .amounts {
+    .col-md-4 {
+      margin: 10px 0 !important;
+    }
+
+    .amount {
+      padding: 20px !important;
+    }
+  }
+
+  .confirm {
+    h3 {
+      font-size: 20px !important;
+    }
+  }
+
+}
+
+

@@ -1,0 +1,28 @@
+<div class="bg-nbd amounts">
+  <div class="container">
+    <div class="row" data-aos="zoom-in" data-aos-offset="200" data-aos-easing="ease-in-sine" data-aos-duration="600">
+      <div class="col-md-12"><h3 class="text-center text-white mb-5">{{'_SelectAmount' | translate}}</h3></div>
+      <div class="col-md-4" >
+        <div class="h-100 amount text-center bg-warning " routerLink="/confirm-draw" (click)="appService.amount.next(200)" >
+          <div class="d-flex justify-content-center align-items-center h-100 w-100" >
+            <h3>200</h3>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-4">
+            <div class="mb-2 amount bg-warning text-center py-5" (click)="appService.amount.next(500)" routerLink="/confirm-draw"><h3>500</h3></div>
+            <div class=" amount bg-warning text-center py-5" (click)="appService.amount.next(2000)" routerLink="/confirm-draw"><h3>2,000</h3></div>
+      </div>
+      <div class="col-md-4 ">
+            <div class="mb-2 amount bg-warning text-center py-5" (click)="appService.amount.next(1000)" routerLink="/confirm-draw"><h3>1,000</h3></div>
+            <div class=" amount bg-warning text-center py-5"><h3>{{'_OtherAmount' | translate}}</h3></div>
+      </div>
+      <div class="col-md-12 text-center mt-5">
+        <button class="btn btn-primary p-4" routerLink="/services"><i class="fa fa-home mx-2" aria-hidden="true"></i>
+          {{'_MainMenu' | translate}}
+        </button>
+      </div>
+    </div>
+  </div>
+</div>

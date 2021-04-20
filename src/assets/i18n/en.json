@@ -1,0 +1,34 @@
+{
+  "_EnterPinCode": "Enter PIN Code",
+  "_Cancel": "Cancel",
+  "_Clear": "Clear",
+  "_Requests": "Requests",
+  "_Withdrawal": "Withdrawal",
+  "_Payments": "Payments",
+  "_Portfolio": "Portfolio",
+  "_Transfers": "Transfers",
+  "_SelectAccount": "Please select the account",
+  "_Saving": "Saving",
+  "_Current": "Current",
+  "_MainMenu": "Main Menu",
+  "_OtherAmount": "Other Amount",
+  "_SelectAmount": "Please select the amount in AED",
+  "_Loading": "Loading...",
+  "_ConfirmDetails": "Please confirm the withdrawal details",
+  "_Confirm": "Confirm",
+  "_AccountType": "Account Type",
+  "_AmountRequested": "Amount requested",
+  "_AED": "AED",
+  "_Back": "Back",
+  "_WouldPrintReceipt": "Would you like print the receipt?",
+  "_PrintReceipt": "Print Receipt",
+  "_DontPrint": "Do not print",
+  "_SelectAnotherAmount": "Select amount",
+  "_YouDontHaveEnoughBalance": "You dont have enough balance. Try Again",
+  "_YouDebitCartIsExpired": "Your Cart is expired",
+  "_Ok": "Ok",
+  "_SessionTimeOut": "Session TimeOut"
+
+
+
+}
